@@ -29,7 +29,7 @@ Easily **create or join lobbies**, **invite Steam friends**, and enjoy secure, *
 4. Choose your game's **`.exe` build**
 5. Start the game **through Steam** — just like any other Steam game!
 
-📸 Example:
+📸 Screenshot:
 
 ![Add Game to Steam](https://github.com/user-attachments/assets/e8aa70da-772c-4e2c-b8de-d8b8584e43e0)
 
